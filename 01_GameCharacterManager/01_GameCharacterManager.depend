@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787598208 source:c:\users\kordyss99\documents\github\c-mini-projects\01_gamecharactermanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
