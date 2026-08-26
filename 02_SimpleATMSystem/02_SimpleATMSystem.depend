@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1787765150 source:c:\users\kordyss99\documents\github\c-mini-projects\02_simpleatmsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+
